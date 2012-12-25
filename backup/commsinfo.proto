@@ -1,0 +1,6 @@
+message Commsinfo
+{
+	required string ip = 1;
+	required double load = 2;
+	required int32 nop = 3;
+}

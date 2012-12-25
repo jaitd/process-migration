@@ -1,0 +1,9 @@
+message Nodeinfo
+{
+	required int32 np=1;
+	required int32 npm=2;
+	required int32 npa=3;
+	required double load=4;
+	required double uthresh=5;
+	required double lthresh=6;
+}
